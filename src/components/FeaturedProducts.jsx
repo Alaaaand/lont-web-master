@@ -1,9 +1,6 @@
 import React from "react";
 import ProductCard from "./ProductCard";
-import washingMachine from "../assets/washing-machine.png";
-import fryer from "../assets/fryer.png";
-import fridge from "../assets/fridge.png";
-import stove from "../assets/stove.png";
+
 import { products } from "../../data/data";
 import { Link } from "react-router-dom";
 

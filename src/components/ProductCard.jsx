@@ -1,4 +1,4 @@
-import React, { useState } from "react"; // Import the custom CSS for smooth animations
+import React from "react"; // Import the custom CSS for smooth animations
 import { useNavigate } from "react-router-dom";
 
 const ProductCard = ({ title, imgSrc, category, parentProductId }) => {

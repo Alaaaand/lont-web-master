@@ -1,6 +1,6 @@
 import React from 'react'
 import { Select, Option } from "@material-tailwind/react";
-import { zones , categories , products } from '../../data/data';
+import { zones , categories  } from '../../data/data';
 import ProductsGrid from '../components/ProductsGrid';
 
 const ProductsPage = () => {
